@@ -52,9 +52,10 @@ header {
     background: black;
     color: #ffffff;
 }
-.menu-btn img{
+.menu-btn>img{
     height: 1.3125em;
     display: block;
+    margin-right: 2em;
 }
 .menu{
     display: none;

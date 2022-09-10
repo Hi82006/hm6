@@ -20,7 +20,7 @@ a:hover{
 }
 button:hover{
     background-color: rgba(17, 15, 15, 0.481);
-    border-radius: 1em;
+    border-radius: 12px;
 }
 .f-h:hover{
     opacity: 0.6;
@@ -52,10 +52,12 @@ header {
     background: black;
     color: #ffffff;
 }
-.menu-btn>img{
+.menu-btn{
     height: 1.3125em;
     display: block;
     margin-right: 2em;
+    height: 25px;
+    width: 25px;
 }
 .menu{
     display: none;

@@ -329,10 +329,14 @@ footer{
         display: flex;
         align-items: center;
         column-gap: 2.5em;
-        width: 33%;
+        width: 39%;
+        justify-content: space-between;
     }
+.head{
+    display: flex;
+}
 .head-r{
-    width: 33%;
+    width: 39%;
     display: flex;
     justify-content: flex-end;
 }
